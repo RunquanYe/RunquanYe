@@ -41,6 +41,8 @@
 <img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" alt="Node" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" alt="npm" width="40px" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img align="left" alt="Postgresql" width="40px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
+<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 <br />
 <br />
@@ -60,8 +62,6 @@
 <img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" alt="JSON" width="40px" src="https://img.icons8.com/color/48/000000/json-download.png"/>
 <img align="left" alt="SQL" width="40px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>
-<img align="left" alt="Postgresql" width="40px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
-<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 <br />
 <br />
