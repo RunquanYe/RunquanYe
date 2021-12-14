@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
-- 🌱 Love to reasearch and learn anything that looks interesting and fancy.
+- 🌱 Love to reasearch and learn interesting and fancy stuff.
 - 📫 How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
 
 <br />
