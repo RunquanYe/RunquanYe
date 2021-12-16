@@ -4,7 +4,10 @@
 
 - 🌱 Love to reasearch and learn interesting and fancy stuff.
 - 📫 How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
-- I have 3 Github account, "JerryYK" for school, "MouseKI" for research purpose and store tutorial notes, and "RunquanYe" is the main account
+- I have 3 Github accounts.
+  + "JerryYK" for school
+  + "MouseKI" for research purpose and store tutorial notes
+  + "RunquanYe" is the main account
 
 <br />
 
