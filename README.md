@@ -6,6 +6,7 @@
 
 
 - 🌱 Love to reasearch and learn interesting and fancy stuff.
+- My nickname is Jerry 🐭.
 - 📫 How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
 - I have 3 Github accounts.
   + "JerryYK" for school works.
