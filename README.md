@@ -5,10 +5,10 @@
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
 
-- 🌱 Love to reasearch and learn interesting and fancy stuff.
-- My nickname is Jerry 🐭.
-- 📫 How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
-- I have 3 Github accounts.
+- :seedling: Love to reasearch and learn interesting and fancy stuff.
+- My nickname is Jerry :mouse:.
+- :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
+- I have 3 Github accounts :open_file_folder:.
   + "JerryYK" for school works.
   + "MouseKI" for research purpose and storeing tutorial notes.
   + "RunquanYe" is the main account.
