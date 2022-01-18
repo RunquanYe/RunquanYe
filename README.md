@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Runquan Ye</h1>
+<h1 align="center">Hi :wave:, I'm Runquan Ye :blush:</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=runquanye&label=Profile%20views&color=0e75b6&style=flat" alt="runquanye"> </p>
 
@@ -9,9 +9,9 @@
 - My nickname is Jerry :mouse:.
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
 - I have 3 Github accounts :open_file_folder:.
-  + "JerryYK" for school works.
-  + "MouseKI" for research purpose and storeing tutorial notes.
-  + "RunquanYe" is the main account.
+  + "JerryYK" for school works :school:.
+  + "MouseKI" for research purpose:mag: and storeing tutorial notes :floppy_disk:.
+  + "RunquanYe" is the main account :star2: :dizzy:.
 
 <br />
 
