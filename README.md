@@ -86,3 +86,8 @@
 [instagram]: https://www.instagram.com/jerry_ye_/
 [linkedin]: https://www.linkedin.com/in/runquanye/
 [facebook]: https://www.facebook.com/jerry.ye.777
+
+[Java]: https://github.com/RunquanYe/Java
+[C]: https://github.com/RunquanYe/C
+[Python]: https://github.com/RunquanYe/Python
+[SQL]: https://github.com/RunquanYe/DemoProjects/tree/main/PostgreSQL
