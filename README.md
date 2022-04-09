@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Runquan Ye</h1>
+<h1 align="center">Hi :wave:, I'm Runquan Ye :blush:</h1>
+
+<p> <img src="https://komarev.com/ghpvc/?username=runquanye&label=Profile%20views&color=0e75b6&style=flat" alt="runquanye"> </p>
 
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
-- 🌱 Love to reasearch and learn anything that looks interesting and fancy.
-- 📫 How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
+
+- :seedling: Love to reasearch and learn interesting and fancy stuff.
+- My nickname is Jerry :mouse:.
+- :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
+- I have 3 Github accounts :open_file_folder:.
+  + "JerryYK" for school works :school:.
+  + "MouseKI" for research purpose:mag: and storeing tutorial notes :floppy_disk:.
+  + "RunquanYe" is the main account :star2: :dizzy:.
 
 <br />
 
@@ -28,6 +36,25 @@
 <br />
 <br />
 
+### Languages:
+
+[<img align="left" alt="Java" width="40px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>][Java]
+<img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+[<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][Python]
+<img align="left" alt="Swift" width="40px" src="https://img.icons8.com/fluency/48/000000/swift.png"/>
+[<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][C]
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" alt="JSON" width="40px" src="https://img.icons8.com/color/48/000000/json-download.png"/>
+[<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>][SQL]
+
+<br />
+<br />
+
 ### Tools:
 <img align="left" alt="VS Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Eclipse" width="40px" src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"/>
@@ -47,24 +74,6 @@
 <br />
 <br />
 
-### Languages:
-
-<img align="left" alt="Java" width="40px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
-<img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img align="left" alt="Swift" width="40px" src="https://img.icons8.com/fluency/48/000000/swift.png"/>
-<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img align="left" alt="JSON" width="40px" src="https://img.icons8.com/color/48/000000/json-download.png"/>
-<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>
-
-<br />
-<br />
 
 ###
 
@@ -77,3 +86,8 @@
 [instagram]: https://www.instagram.com/jerry_ye_/
 [linkedin]: https://www.linkedin.com/in/runquanye/
 [facebook]: https://www.facebook.com/jerry.ye.777
+
+[Java]: https://github.com/RunquanYe/Java
+[C]: https://github.com/RunquanYe/C
+[Python]: https://github.com/RunquanYe/Python
+[SQL]: https://github.com/RunquanYe/DemoProjects/tree/main/PostgreSQL
