@@ -8,10 +8,7 @@
 - :seedling: Love to reasearch and learn interesting and fancy stuff.
 - My nickname is Jerry :mouse:.
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
-- I have 3 Github accounts :open_file_folder:.
-  + "JerryYK" for school works :school:.
-  + "MouseKI" for research purpose:mag: and storeing tutorial notes :floppy_disk:.
-  + "RunquanYe" is the main account :star2: :dizzy:.
+- Here are[My Demo projects](https://github.com/RunquanYe/DemoProjects).
 
 <br />
 
