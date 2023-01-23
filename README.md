@@ -11,7 +11,7 @@
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
 <br />
 
-### Connect with me:
+### Connect with me(You can click the icons):
 [<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
@@ -32,8 +32,7 @@
 <br />
 <br />
 
-### Languages:
-
+### Languages(You can click some of the icons):
 [<img align="left" alt="Java" width="40px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>][Java]
 <img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 [<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][Python]
