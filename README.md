@@ -41,6 +41,7 @@
 [<img align="left" alt="Java" width="40px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>][Java]
 <img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 [<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][Python]
+[<img align="left" alt="Bash" width="40px" src="https://img.icons8.com/color/48/000000/Bash--v1.png"/>][Bash]
 <img align="left" alt="Swift" width="40px" src="https://img.icons8.com/fluency/48/000000/swift.png"/>
 [<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][C]
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
@@ -90,4 +91,5 @@
 [Java]: https://github.com/RunquanYe/Java
 [C]: https://github.com/RunquanYe/C
 [Python]: https://github.com/RunquanYe/Python
+[Bash]: https://github.com/RunquanYe/Bash
 [SQL]: https://github.com/RunquanYe/DemoProjects/tree/main/PostgreSQL
