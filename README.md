@@ -50,7 +50,6 @@
 <img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img align="left" alt="JSON" width="40px" src="https://img.icons8.com/color/48/000000/json-download.png"/>
 [<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>][SQL]
 
 <br />
