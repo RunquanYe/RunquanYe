@@ -8,7 +8,7 @@
 - :seedling: Love to reasearch and learn interesting and fancy stuff.
 - My nickname is Jerry :mouse:.
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
-- Here are [My Demo projects](https://github.com/RunquanYe/DemoProjects).
+- :open_file_folder: Here are [My Demo projects](https://github.com/RunquanYe/DemoProjects).
 <br />
 
 ### Connect with me:
