@@ -41,10 +41,10 @@
 [<img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>][C]
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
-<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+[<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>][HTML
+[<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>][HTML]
+[<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>][HTML]
+[<img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][HTML]
 [<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>][SQL]
 
 <br />
@@ -83,7 +83,9 @@
 [facebook]: https://www.facebook.com/jerry.ye.777
 
 [Java]: https://github.com/RunquanYe/Java
-[C]: https://github.com/RunquanYe/C
 [Python]: https://github.com/RunquanYe/Python
+[C]: https://github.com/RunquanYe/C
+[HTML]: https://github.com/RunquanYe/HTML
 [Bash]: https://github.com/RunquanYe/Bash
-[SQL]: https://github.com/RunquanYe/DemoProjects/tree/main/PostgreSQL
+[SQL]: https://github.com/RunquanYe/PostgreSQL-SQL
+
