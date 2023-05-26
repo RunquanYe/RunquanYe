@@ -4,9 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mouseki&label=Profile%20views&color=0e75b6&style=flat" alt="mouseki" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouseki&column=3&margin-w=15&margin-h=15&rank=-C,-?" alt="mouseki" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runquanye&column=3&margin-w=15&margin-h=15&rank=-C,-?" alt="mouseki" /></a> </p>
 
 - :seedling: Love to reasearch and learn interesting and fancy stuff.
 - My nickname is Jerry :mouse:.
