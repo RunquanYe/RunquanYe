@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runquanye&column=3&margin-w=15&margin-h=15&rank=-C,-?" alt="mouseki" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runquanye&column=3&margin-w=15&margin-h=15" alt="mouseki" /></a> </p>
 
 - :seedling: Love to reasearch and learn interesting and fancy stuff.
 - My nickname is Jerry :mouse:.
@@ -74,10 +74,6 @@
 ###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=runquanye&show_icons=true&locale=en&layout=compact" alt="runquanye" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runquanye&show_icons=true&locale=en" alt="mouseki" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runquanye&" alt="mouseki" /></p>
 
 <br />
 <br />
