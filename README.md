@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
-- :seedling: Love to reasearch and learn interesting and fancy stuff.
+- :seedling: Love to research and learn interesting and fancy stuff.
 - My nickname is Jerry :mouse:.
 - :open_file_folder: Here are my [demo projects](https://github.com/RunquanYe/DemoProjects).
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
