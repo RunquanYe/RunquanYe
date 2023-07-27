@@ -10,7 +10,7 @@
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
 <br />
 
-### Connect with me(You can click the icons):
+### Connect with me / 与我联系 (You can click the icons / 一些图标可以点击):
 [<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-### Environments:
+### Environments / 开发系统环境:
 <img align="left" alt="Windows" width="40px" src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
 <img align="left" alt="MAC" width="40px" src="https://img.icons8.com/color/48/000000/mac-logo.png"/>
 <img align="left" alt="Linux" width="40px" src="https://img.icons8.com/color/48/000000/linux.png"/>
@@ -31,7 +31,7 @@
 <br />
 <br />
 
-### Languages(You can click some of the icons):
+### Languages / 开发语言 (You can click some of the icons / 一些图标可以点击):
 [<img align="left" alt="Java" width="40px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>][Java]
 <img align="left" alt="Kotlin" width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 [<img align="left" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>][Python]
@@ -49,7 +49,7 @@
 <br />
 <br />
 
-### Tools:
+### Tools / 开发应用:
 <img align="left" alt="VS Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Eclipse" width="40px" src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"/>
 <img img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
