@@ -2,7 +2,7 @@
  * @Author: mouseki Jerryyk8@gmail.com
  * @Date: 2023-08-21 22:32:22
  * @LastEditors: mouseki Jerryyk8@gmail.com
- * @LastEditTime: 2023-08-21 22:56:31
+ * @LastEditTime: 2023-08-21 23:00:15
  * @FilePath: /Nginx/Users/runquanye/Documents/RunquanGit/RunquanYe/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -77,7 +77,7 @@
 <br />
 
 
-[![Runquan Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=runquanye&show_icons=true&locale=en")](https://github-readme-stats.vercel.app/api/top-langs?username=runquanye&show_icons=true&locale=en")
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=runquanye&show_icons=true&locale=en&layout=compact" alt="runquanye" /></p>
 
 <br />
 <br />
