@@ -95,5 +95,5 @@
 [HTML]: https://github.com/RunquanYe/HTML
 [Bash]: https://github.com/RunquanYe/Bash
 [SQL]: https://github.com/RunquanYe/PostgreSQL-SQL
-[![Runquan Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=runquanye&show_icons=true&locale=en&layout=compact")](https://github.com/runquanye/github-readme-stats)
+[![Runquan Ye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=runquanye&show_icons=true&locale=en")](https://github.com/runquanye/github-readme-stats)
 
