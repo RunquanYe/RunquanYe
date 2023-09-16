@@ -54,7 +54,6 @@
 <img align="left" alt="Eclipse" width="40px" src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"/>
 <img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img align="left" alt="Pycharm" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img align="left" alt="XCode" width="40px"  src="https://img.icons8.com/color/48/000000/xcode.png"/>
 <img align="left" alt="Github" width="40px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
 <img align="left" alt="Qt" width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/>
 <img align="left" alt="Terminal" width="40px" src="https://img.icons8.com/color/40/000000/console.png"/>
@@ -64,6 +63,7 @@
 <img align="left" alt="Kafaka" width="40px" src="https://icons.iconarchive.com/icons/pictogrammers/material/48/apache-kafka-icon.png"/>
 <img align="left" alt="Postgresql" width="40px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+<img align="left" alt="Redis" width="40px" src="https://img.icons8.com/color/48/00000/redis.png"/>
 
 <br />
 <br />
