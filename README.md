@@ -1,11 +1,3 @@
-<!--
- * @Author: mouseki Jerryyk8@gmail.com
- * @Date: 2023-08-21 22:32:22
- * @LastEditors: mouseki Jerryyk8@gmail.com
- * @LastEditTime: 2023-08-21 23:00:15
- * @FilePath: /Nginx/Users/runquanye/Documents/RunquanGit/RunquanYe/README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 <h1 align="center">Hi :wave:, I'm Runquan Ye :blush:</h1>
 
 <p> <img src="https://komarev.com/ghpvc/?username=runquanye&label=Profile%20views&color=0e75b6&style=flat" alt="runquanye"> </p>
@@ -60,16 +52,16 @@
 ### Tools / 开发应用:
 <img align="left" alt="VS Code" width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Eclipse" width="40px" src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"/>
-<img img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img img align="left" alt="Pycharm" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img img align="left" alt="XCode" width="40px"  src="https://img.icons8.com/color/48/000000/xcode.png"/>
-<img img align="left" alt="Github" width="40px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
-<img img align="left" alt="Qt" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-<img img align="left" alt="Terminal" width="40px" src="https://img.icons8.com/color/40/000000/console.png"/>
-<img img align="left" alt="Powershell" width="40px" src="https://img.icons8.com/color/48/000000/powershell.png"/>
-<img align="left" alt="Git" width="40px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="Intellij" width="40px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+<img align="left" alt="Pycharm" width="40px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img align="left" alt="XCode" width="40px"  src="https://img.icons8.com/color/48/000000/xcode.png"/>
+<img align="left" alt="Github" width="40px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
+<img align="left" alt="Qt" width="40px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/>
+<img align="left" alt="Terminal" width="40px" src="https://img.icons8.com/color/40/000000/console.png"/>
+<img align="left" alt="Kubernetes" width="40px" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<img align="left" alt="Nginx" width="40px" src="https://img.icons8.com/color/48/000000/nginx.png"/>
 <img align="left" alt="Node" width="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" alt="npm" width="40px" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img align="left" alt="Kafaka" width="40px" src="https://icons.iconarchive.com/icons/pictogrammers/material/48/apache-kafka-icon.png"/>
 <img align="left" alt="Postgresql" width="40px" src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
 <img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
