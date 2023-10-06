@@ -11,7 +11,6 @@
 <br />
 
 ### Connect with me / 与我联系 (You can click the icons / 一些图标可以点击):
-[<img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
 [<img align="left" alt="Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
@@ -77,7 +76,6 @@
 
 [twitter]: https://twitter.com/Jerry_Ye_
 [instagram]: https://www.instagram.com/jerry_ye_/
-[linkedin]: https://www.linkedin.com/in/runquanye/
 [facebook]: https://www.facebook.com/jerry.ye.777
 
 [Java]: https://github.com/RunquanYe/Java
