@@ -14,6 +14,7 @@
 [<img align="left" alt="Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 [<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
+[<img align="left" alt="Linkedin" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 
 <br />
 <br />
@@ -37,8 +38,8 @@
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 [<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>][SQL]
 [<img align="left" alt="Bash" width="40px" src="https://img.icons8.com/color/48/null/bash.png"/>][Bash]
+[<img align="left" alt="Window_Batch" width="40px" src="https://img.icons8.com/color/48/000000/batch.png"/>][Batch]
 [<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>][HTML]
-[<img align="left" alt="CSS" width="40px" src="https://img.icons8.com/color/48/000000/css3.png"/>][HTML]
 [<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>][HTML]
 [<img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][HTML]
 <img align="left" alt="C#" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
@@ -77,12 +78,14 @@
 [twitter]: https://twitter.com/Jerry_Ye_
 [instagram]: https://www.instagram.com/jerry_ye_/
 [facebook]: https://www.facebook.com/jerry.ye.777
+[linkedin]: https://www.linkedin.com/in/runquanye/
 
 [Java]: https://github.com/RunquanYe/Java
 [Python]: https://github.com/RunquanYe/Python
 [C]: https://github.com/RunquanYe/C
 [HTML]: https://github.com/RunquanYe/HTML
 [Bash]: https://github.com/RunquanYe/Bash
+[Batch]: https://github.com/RunquanYe/Windows_Bat
 [SQL]: https://github.com/RunquanYe/PostgreSQL-SQL
 
 
