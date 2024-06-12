@@ -38,7 +38,7 @@
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 [<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>][SQL]
 [<img align="left" alt="Bash" width="40px" src="https://img.icons8.com/color/48/null/bash.png"/>][Bash]
-[<img align="left" alt="Window_Batch" width="40px" src="https://img.icons8.com/color/48/000000/batch.png"/>][Batch]
+[<img align="left" alt="Window_Batch" width="40px" src="https://img.icons8.com/?size=48&id=3elohmeWk9mr&format=png&color=000000"/>][Batch]
 [<img align="left" alt="HTML" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>][HTML]
 [<img align="left" alt="JavaScript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>][HTML]
 [<img align="left" alt="TypeScript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>][HTML]
