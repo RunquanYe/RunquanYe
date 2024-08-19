@@ -9,14 +9,6 @@
 - :open_file_folder: Here are my [demo projects](https://github.com/RunquanYe/DemoProjects).
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
 <br />
-
-### Connect with me / 与我联系 (You can click the icons / 一些图标可以点击):
-[<img align="left" alt="Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>][twitter]
-[<img align="left" alt="Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
-[<img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook.png"/>][facebook]
-[<img align="left" alt="Linkedin" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-
-<br />
 <br />
 
 ### Environments / 开发系统环境:
