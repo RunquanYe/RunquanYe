@@ -9,7 +9,6 @@
 - :open_file_folder: Here are my [demo projects](https://github.com/RunquanYe/DemoProjects).
 - :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
 <br />
-<br />
 
 ### Environments / 开发系统环境:
 <img align="left" alt="Windows" width="40px" src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
