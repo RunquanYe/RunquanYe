@@ -5,9 +5,9 @@
 [![Website](https://img.shields.io/website?label=RunquanYe.com&style=for-the-badge&url=https%3A%2F%2FRunquanYe.com)](https://RunquanYe.com)
 
 - :seedling: Love to research and learn interesting and fancy stuff.
-- My nickname is Jerry :mouse:.
+- My nickname is Jeremy.
 - :open_file_folder: Here are my [demo projects](https://github.com/RunquanYe/DemoProjects).
-- :mailbox_closed: How to reach me **Jerry347702526@gmail.com**,  **yer@mail.gvsu.edu**
+- :mailbox_closed: How to reach me **Jerry347702526@gmail.com**
 <br />
 
 ### Environments / 开发系统环境:
@@ -66,10 +66,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/Jerry_Ye_
-[instagram]: https://www.instagram.com/jerry_ye_/
-[facebook]: https://www.facebook.com/jerry.ye.777
-[linkedin]: https://www.linkedin.com/in/runquanye/
 
 [Java]: https://github.com/RunquanYe/Java
 [Python]: https://github.com/RunquanYe/Python
