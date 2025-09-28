@@ -2,11 +2,10 @@
     "程序员" : "叶润权",
     "昵称" : "Jerry",
     "领英" : "www.linkedin.com/in/runquanye",
-    "语言" : ["Java", "Kotlin", "Python", "C/C++", "C#", "Swift", "Bash", "HTML", "JavaScript", "SQL"],
-    "相关工具" : ["XAML", "VueJS", "React", "Angular", "Shopify Liquid", "JSON", "WPF", "PyQt", "KafKa", "MySQL", "PostgreSQL", "MongoDB", "Redis", "Docker", "Kubernetes", "Nginx"],
+    "技能" : ["Java", "Kotlin", "Swift", "Python", "C/C++", "C#", "WPF", "XAML", "Bash", "Linux", "HTML", "CSS", "JavaScript", "VueJS", "React", "Angular", "Shopify Liquid", "JSON", "SQL", "Non-SQL"],
     "专业" : "本科，计算机科学",
     "学校" : "大峡谷州立大学，美国密歇根州",
     "GitHub" : "https://github.com/RunquanYe",
     "作品展示" : "https://github.com/RunquanYe/DemoProjects",
-    "邮箱" : ["Jerry347702526@gmail.com", "347702526@qq.com"]
+    "邮箱" : ["yer@mail.gvsu.edu", "Jerry347702526@gmail.com", "347702526@qq.com"]
 }
